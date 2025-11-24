@@ -2,6 +2,8 @@
 
 Wraps Gemini in a webview.
 
+![screenshot](.github/app.png)
+
 ## Getting Started
 
 ```bash
