@@ -9,15 +9,7 @@
     "beforeBuildCommand": null
   },
   "app": {
-    "windows": [
-      {
-        "title": "Gemini",
-        "width": 1200,
-        "height": 800,
-        "url": "https://gemini.google.com/",
-        "theme": "Dark"
-      }
-    ],
+    "windows": [],
     "security": {
       "csp": null
     }
